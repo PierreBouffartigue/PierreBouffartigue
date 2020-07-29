@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### 📫 - How to reach me
+
+- [📧 E-mail contact](mailto:pierre.bouffartigue@ynov.com)
+
 <!--
 **PierreBouffartigue/PierreBouffartigue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
