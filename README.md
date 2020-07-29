@@ -1,5 +1,3 @@
-### Hi there 👋
-
 #### 📫 - How to reach me
 
 - [📧 E-mail contact](mailto:pierre.bouffartigue@ynov.com)
