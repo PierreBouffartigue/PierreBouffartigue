@@ -1,3 +1,5 @@
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreBouffartigue&layout=compact&theme=algolia&hide_border=true)](https://github.com/PierreBouffartigue)
+
 #### 📫 - How to reach me
 
 - [📧 E-mail contact](mailto:pierre.bouffartigue@ynov.com)
